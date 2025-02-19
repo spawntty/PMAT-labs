@@ -21,9 +21,11 @@
         <package name="fakenet-ng.vm" />
         <package name="floss.vm" />
         <package name="ghidra.vm" />
+        <package name="googlechrome.vm" />
         <package name="hashmyfiles.vm" />
         <package name="hxd.vm" />
         <package name="idafree.vm" />
+        <package name="internet_detector.vm" />
         <package name="libraries.python3.vm" />
         <package name="map.vm" />
         <package name="nmap.vm" />
@@ -46,9 +48,9 @@
         <package name="vscode.vm" />
         <package name="windows-terminal.vm" />
         <package name="wireshark.vm" />
-        <package name="x64dbg.ollydumpex.vm" />
+        <package name="x64dbg.plugin.ollydumpex.vm" />
+        <package name="x64dbg.plugin.x64dbgpy.vm" />
         <package name="x64dbg.vm" />
-        <package name="x64dbgpy.vm" />
         <package name="yara.vm" />
     </packages>
     <registry-items>
